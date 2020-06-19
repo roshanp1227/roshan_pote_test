@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27638" started-at="2020-06-19T13:34:25Z" finished-at="2020-06-19T13:34:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27638" started-at="2020-06-19T13:34:25Z" finished-at="2020-06-19T13:34:53Z">
+      <class name="Com.qa.question1.Question_Google_Maps">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Com.qa.question1.Question_Google_Maps@1d548a08]" name="browserLaunch" is-config="true" duration-ms="13293" started-at="2020-06-19T19:04:25Z" finished-at="2020-06-19T19:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="tasks()[pri:0, instance:Com.qa.question1.Question_Google_Maps@1d548a08]" name="tasks" duration-ms="12694" started-at="2020-06-19T19:04:39Z" finished-at="2020-06-19T19:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tasks -->
+        <test-method status="PASS" signature="close_browser()[pri:0, instance:Com.qa.question1.Question_Google_Maps@1d548a08]" name="close_browser" is-config="true" duration-ms="1596" started-at="2020-06-19T19:04:51Z" finished-at="2020-06-19T19:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- Com.qa.question1.Question_Google_Maps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

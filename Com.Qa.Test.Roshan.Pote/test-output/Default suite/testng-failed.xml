@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="Qom.Qa.Question2.Question_2">
+        <methods>
+          <include name="close_brower"/>
+          <include name="task"/>
+          <include name="browserLaunch"/>
+        </methods>
+      </class> <!-- Qom.Qa.Question2.Question_2 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
